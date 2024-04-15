@@ -47,7 +47,7 @@ conda install -c conda-forge xarray dask netCDF4 bottleneck
 2. Install onnxruntime
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Demo
